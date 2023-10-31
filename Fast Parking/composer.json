@@ -1,0 +1,9 @@
+{
+    "name": "cbraga/fastparking-api",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
